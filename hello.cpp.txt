@@ -1,0 +1,8 @@
+#include <iostream>
+char main() {
+	std::cout << "This is simple program in C++ ";
+	std::cout << "to show the main structure" << std::endl;
+	std::cout << "We learn more about the language" << "\n";
+	std::cout << "in this chapter and the rest of the book";
+	return 'd';
+}
